@@ -1,7 +1,5 @@
 # Augmented Reality Game
 
-## Visual Computing Project @EPFL with Pr. Dillenbourg
-
 In this project, we fully created a 3d-game controlled physically, via a tangible interface (Augmented Reality).
 The goal here was to touch every obstacles with a ball controled by a real object in front of our webcam.
 
